@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "roboto";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"), url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "roboto";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../fonts/RobotoBold/RobotoBold.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoBold/RobotoBold.woff") format("woff"), url("../fonts/RobotoBold/RobotoBold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Lato/Lato-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato/Lato-Regular.woff") format("woff"), url("../fonts/Lato/Lato-Regular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Lato-Semibold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Lato-Semibold/Lato-Semibold.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-Semibold/Lato-Semibold.woff") format("woff"), url("../fonts/Lato-Semibold/Lato-Semibold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Lato-Light";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Lato-Light/Lato-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato-Light/Lato-Light.woff") format("woff"), url("../fonts/Lato-Light/Lato-Light.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Lobster";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Lobster/Lobster1.4.eot?#iefix") format("embedded-opentype"), url("../fonts/Lobster/Lobster1.4.woff") format("woff"), url("../fonts/Lobster/Lobster1.4.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "SantEliaScript";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/SantEliaScript/SantEliaScript-BoldDMO.eot?#iefix") format("embedded-opentype"), url("../fonts/SantEliaScript/SantEliaScript-BoldDMO.woff") format("woff"), url("../fonts/SantEliaScript/SantEliaScript-BoldDMO.ttf") format("truetype"); }
